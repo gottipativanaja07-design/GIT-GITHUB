@@ -1,2 +1,4 @@
-# GIT-GITHUB
-GIT& GITHUB SEARCH TO COURSE
+print("hello world")
+
+
+print("iam going to home")
